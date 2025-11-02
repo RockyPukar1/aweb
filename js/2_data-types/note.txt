@@ -1,0 +1,30 @@
+// Data type
+/*
+  python ->
+    Primitive
+      integer -> pure number, 0, 5, 10, -100
+      float -> 0.01, -6.29,
+      boolean -> True, False,
+      string -> "anything", 'anything'
+    Non Primitive
+      dictionary -> key value pair
+        myself = {
+          "name": "Siddhartha Bhugai",
+          "age": 11 
+        }
+      list -> list of value separated by comma
+        friends = ["Hitesh", "Rakesh", "Samir", "Rakesh"]
+      set -> same as list, but unique elements
+        friends = {"Hitesh", "Rakesh", "Samir"}
+      tuple -> same as list, but cannot be modified
+        friends = ("Hitesh", "Rakesh", "Samir", "Rakesh")
+
+  js
+    Boolean -> true, false
+    Number -> 0, -5.26, 100,
+    null -> value does not exist, let a = null;
+    undefined -> value is not given, let a;, let a = undefined
+    String -> "anything", 'anything', ``,
+
+    // TODO: other data types
+*/

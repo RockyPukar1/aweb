@@ -1,0 +1,12 @@
+// Syntax
+/* if (<condition>) {
+  // code block
+} else if (<condition>) {
+  // code block
+}
+// multiple else if
+else {
+  // if all conditions fail
+} */
+
+// TODO: Switch

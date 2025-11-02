@@ -1,0 +1,36 @@
+/* // function -> block of code that does specific task
+// Syntax
+// Function declaration
+function <functionName>(parameters) { // value received by function
+  // code block
+}
+
+// Invoke/Call
+<functionName>(arguments) // value passed to a function */
+
+/* // Python
+def sum(a, b):
+  print(a + b)
+
+sum(5, 6)
+*/
+
+// JS
+function sum(a, b) {
+  console.log(a + b);
+}
+
+sum(5, 6)
+
+// TODO: other function types
+const sum = function (a, b) {
+
+}
+
+const sum = (a, b) => {
+
+}
+
+(() => {
+
+})()

@@ -1,0 +1,35 @@
+// console.log("Hello World")
+
+/*
+ var -> redeclaration, reassignment
+ let -> no redeclaration, only re-assign,
+ const -> no redeclaration, no re-assigment
+*/
+/* // Var
+// Re-declaration
+var a = 5
+var a = 10
+
+// Re-assignment
+var a = 5;
+b = 10 */
+
+/* // Let
+// No redeclaration
+// let a = 5;
+// let a = 10; // this is not allowed
+
+// Re assignment
+let a;
+a = 10 */
+
+/* // Const
+// No redeclaraion
+// const a = 5;
+// const a = 10; // no redeclaration
+
+// No Re-assignment
+// const a;
+// a = 10; // no re assignment */
+
+// Note: use const always, when you need to change variable later on make it let
