@@ -1,0 +1,13 @@
+// Array -> collection of elements(any data type) separated comma, stored in index/position(starts from zero)
+const friends = ["Rakesh", "Himesh", "Santosh", "Rakesh", "Himesh", "Santosh", "Rakesh", "Himesh", "Santosh", "Rakesh", "Himesh", "Santosh", "Rakesh", "Himesh", "Santosh", "Rakesh", "Himesh", "Santosh", "Rakesh", "Himesh", "Santosh", "Hitesh"];
+                // 0       1         2
+// console.log(friends)
+// friends[3] = "Siddhartha"
+// console.log(friends[3])
+// console.log(friends)
+// const removed = friends.pop()
+// friends.push("Francis")
+// friends.unshift("Bipul")
+// const removed = friends.shift()
+// console.log(friends, removed)
+// console.log(friends[friends.length - 3])
